@@ -10,7 +10,7 @@
     - Exemple : ...  Je suis souvent la personne a coordonner le travail. Je demande souvent ce que mes coéquipiers pensent pour améliorer le travail. Je finis souvent mes projets quelque jours en avance, ce qui me permet d'apporter des corrections à mon travail si il y'en a
       
 - Mes faiblesses ou points à améliorer : ... Je suis paresseux
-    - Exemple : ... 
+    - Exemple : J'essais de faire des choses le plus rapidement possible, ce qui peux causer des erreurs.
 - Seul(e) ou en équipe : ... Seul
     - Pourquoi et exemple : ... Je trouve que c'est inconvénient de coordonner des temps de travail avec les autres.Par exemple, les gens ont souvent des horaires différents et ils ont souvent d'autre choses à faire comme aller au gym. Un coéquiper pourrait être nuisible au travail de l'équipe. Par exemple, tu travailles avec ton ami, et il te parle beaucoup au lieu de travailler.
 - Plutôt technique ou créatif : ... Je suis plutôt technique, parce que je trouve que c'est plus facil de suivre des règles à la lettre au refaire un formule plusieurs fois. De plus, selon moi, je pense que j'ai une bonne mémoire, ce qui m'aide à faire du travail répétitif. Cela peut être nuisible pour quelquechose de créatif, car j'utilise moins de logique.
@@ -69,9 +69,10 @@
 
 - Mon profil en une phrase :Vidéos et jeux vidéos
 - Ce qui m'a surpris : Depuis le cégep, je suis devenu plus extroverti
-- Ma force principale et la faiblesse à travailler : Être moins paresseux,
+- Ma force principale et la faiblesse à travailler :Bonne communication, être moins paresseux,
 - Mon action d'ici la fin de la session : Une vidéo parlant d'un sujet que j'aime
 
 ## Ma capsule
 
-![Mon interface OBS](obs.png)
+![Mon interface OBS](<img width="1295" height="1035" alt="image" src="https://github.com/user-attachments/assets/b54e0441-652c-41c8-95d6-10d13b6a5818" />
+)
