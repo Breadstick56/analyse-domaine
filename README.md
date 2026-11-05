@@ -48,7 +48,9 @@
 - Types d'entreprises : Studio de développement
 - Exemple d'entreprise : Ubisoft
 
-![Ubisoft](entreprise.jpg)
+![Ubisoft](<img width="467" height="428" alt="image" src="https://github.com/user-attachments/assets/428e6a54-b29a-4323-a574-4b128260b4c1" />
+>
+)
 
 (source de l'image : ...)
 
