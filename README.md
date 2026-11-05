@@ -48,7 +48,7 @@
 - Types d'entreprises : Vidéo et animation
 - Exemple d'entreprise : Illumination
 
-![Ubisoft](<img width="509" height="196" alt="Illumination" src="https://github.com/user-attachments/assets/4e1d1702-b4ab-4790-bd90-a497e46c04f9" />
+![Illumination](<img width="509" height="196" alt="Illumination" src="https://github.com/user-attachments/assets/4e1d1702-b4ab-4790-bd90-a497e46c04f9" />
 >
 >
 )
