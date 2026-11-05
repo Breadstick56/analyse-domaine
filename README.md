@@ -53,7 +53,7 @@
 >
 )
 
-(source de l'image : [...](https://en.wikipedia.org/wiki/Ubisoft))
+(source de l'image : [...](https://en.wikipedia.org/wiki/Illumination_Studios_Paris))
 
 - Types de produits et de services : ... Films
 - Étapes de production : 
@@ -62,15 +62,15 @@
   Production: Animer le film, faire les voix des personnages,éditer l'audio ou les animations.
   Post production: Faire des publicités pour le film
   Opération: Montrer le film au cinéma
-- Type d'emploi visé : ...
-- Étapes pour obtenir cet emploi : Avoir un portfolio sur le travail sur des films que j'ai fait
+- Type d'emploi visé : ... Quelquechose en audiovisuel
+- Étapes pour obtenir cet emploi : Avoir un portfolio sur le travail que j'ai fait
 
 ## Conclusion
 
-- Mon profil en une phrase : ...
-- Ce qui m'a surpris : ...
+- Mon profil en une phrase :Vidéos et jeux vidéos
+- Ce qui m'a surpris : Depuis le cégep, je suis devenu plus extroverti
 - Ma force principale et la faiblesse à travailler : Être moins paresseux,
-- Mon action d'ici la fin de la session : ...
+- Mon action d'ici la fin de la session : Une vidéo parlant d'un sujet que j'aime
 
 ## Ma capsule
 
