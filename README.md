@@ -45,25 +45,31 @@
 
 ## Les caractéristiques de mon domaine préféré
 
-- Types d'entreprises : Studio de développement
-- Exemple d'entreprise : Ubisoft
+- Types d'entreprises : Vidéo et animation
+- Exemple d'entreprise : Illumination
 
-![Ubisoft](<img width="467" height="428" alt="image" src="https://github.com/user-attachments/assets/428e6a54-b29a-4323-a574-4b128260b4c1" />
+![Ubisoft](<img width="509" height="196" alt="Illumination" src="https://github.com/user-attachments/assets/4e1d1702-b4ab-4790-bd90-a497e46c04f9" />
+>
 >
 )
 
-(source de l'image : ...)
+(source de l'image : [...](https://en.wikipedia.org/wiki/Ubisoft))
 
-- Types de produits et de services : ...
-- Étapes de production : ...
+- Types de produits et de services : ... Films
+- Étapes de production : 
+  Recherche: Définir le sujet du film
+  Préproduction: Trouver les acteurs
+  Production: Animer le film, faire les voix des personnages,éditer l'audio ou les animations.
+  Post production: Faire des publicités pour le film
+  Opération: Montrer le film au cinéma
 - Type d'emploi visé : ...
-- Étapes pour obtenir cet emploi : ...
+- Étapes pour obtenir cet emploi : Avoir un portfolio sur le travail sur des films que j'ai fait
 
 ## Conclusion
 
 - Mon profil en une phrase : ...
 - Ce qui m'a surpris : ...
-- Ma force principale et la faiblesse à travailler : ...
+- Ma force principale et la faiblesse à travailler : Être moins paresseux,
 - Mon action d'ici la fin de la session : ...
 
 ## Ma capsule
