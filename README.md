@@ -29,16 +29,16 @@
 
 ## Mes 2 domaines préférés
 
-### Domaine 1 : ...
+### Domaine 1 : Jeux vidéo
 
-- Expérience : Jeux vidéo
+- Expérience : Loisirs
 - Logiciels et outils : Unity,Unreal engine
 - Pourquoi il m'intéresse : Je joue souvent aux jeux vidéo et je trouve que c'est quelque chose de très lucratif
 - Travailler dans ce domaine : Je me vois probablement travailler dans ce domaine, car c'est très lucratif.
 
-### Domaine 2 : ...
+### Domaine 2 : Vidéo et animation
 
-- Expérience : Vidéo et animation
+- Expérience : Divertissement
 - Logiciels et outils : Capcut, Davinci resolve.
 - Pourquoi il m'intéresse : Je trouve que c'est une bonne méthode à propager de l'information et de divertissement
 - Travailler dans ce domaine : Je me vois travailler dans ce domaine, car je suis très passionné par les vidéos
