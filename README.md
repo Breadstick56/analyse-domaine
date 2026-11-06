@@ -74,5 +74,5 @@
 
 ## Ma capsule
 
-![Mon interface OBS](<img width="1295" height="1035" alt="image" src="https://github.com/user-attachments/assets/b54e0441-652c-41c8-95d6-10d13b6a5818" />
+![Mon interface OBS](<img width="1294" height="1038" alt="image" src="https://github.com/user-attachments/assets/36a553e2-1732-42a5-b8bd-71abe22014af" />
 )
